@@ -1251,6 +1251,7 @@ higher
 pronto
 ready
 inglese
+English
 serio
 serious
 fermo
@@ -1689,7 +1690,8 @@ mostrare
 to exhibit
 imporre
 to impose
-accompagnare to accompany
+accompagnare 
+to accompany
 significare
 to mean
 dimenticare
